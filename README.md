@@ -1,9 +1,9 @@
 # GaugedEntanglement
-transfer operator method for the calculation of entanglement entropies in (2+1)D LGTs
+transfer operator method for the calculation of entanglement entropies in (2+1)D LGTs;
 using Python 3
 ___________________________________________________
 
-This project was developed for the numerical calculation of second normalized Renyi entanglement entropy S_2 for a Z2 lattice gauge theory. The method is based on a transfer operator approach using gauged projected entangled pair states in 2 spatial dimensions.
+This project was developed for the numerical calculation of the second normalized Renyi entanglement entropy S_2 for a Z2 lattice gauge theory. The method is based on a transfer operator approach using gauged projected entangled pair states in 2 spatial dimensions.
 Paper: https://arxiv.org/abs/2401.01930
 
 main files:
